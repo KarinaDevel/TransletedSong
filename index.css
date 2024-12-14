@@ -1,0 +1,31 @@
+.content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content h1 {
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.296);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.content p {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.content span {
+    color: rgba(128, 128, 128, 0.697);
+}
+
+.content .sub-text {
+    font-size: 10px;
+    color: rgba(128, 128, 128, 0.45);
+}
